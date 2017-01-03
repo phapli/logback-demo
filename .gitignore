@@ -67,13 +67,9 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
-.gitignore
 .idea/compiler.xml
 .idea/copyright/
 .idea/misc.xml
 .idea/modules.xml
 .idea/modules/logback-demo.iml
 .idea/sbt.xml
-build.sbt
-project/
-src/
